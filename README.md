@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo ao meu GitHub
 
-Eu sou o **Ribeiro**, apaixonado por tecnologia, programação e sempre à procura de aprender algo novo.
+Eu sou o **José Ribeiro**, apaixonado por tecnologia, programação e sempre à procura de aprender algo novo.
 
 ---
 
@@ -34,7 +34,7 @@ Eu sou o **Ribeiro**, apaixonado por tecnologia, programação e sempre à procu
 ## 📫 Como entrar em contacto:
 - Email: **josepedroribeiro06@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/jos%C3%A9-ribeiro-a1b8a6276/**
-- Instagram: **ribeiro__20**
+- Instagram: **https://www.instagram.com/ribeiro__20/**
 
 ---
 
