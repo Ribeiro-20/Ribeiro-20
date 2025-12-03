@@ -80,9 +80,10 @@ Eu sou o **José Ribeiro**, apaixonado por tecnologia, programação e sempre à
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ribeiro-20&show_icons=true&theme=radical&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Ribeiro-20&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro-20&layout=compact&theme=radical&cache_seconds=7200)
+![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Ribeiro-20&layout=compact&theme=radical)
+
 
 ---
 
